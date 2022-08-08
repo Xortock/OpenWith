@@ -1,5 +1,4 @@
 ## Open With Powershell script
----
 - This Script is meant for adding applications to your windows file & folder Registry 
 - This gives you the ability to execute the open with action with these applications
 
